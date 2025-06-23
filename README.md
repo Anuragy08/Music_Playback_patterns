@@ -83,7 +83,6 @@ This project leverages Power BI to perform an in-depth analysis of music streami
 
 **Anurag Yadav**  
 *Data Analyst | Business Intelligence Developer*  
-📧 anuragyad071@gmail.com
 
 ---
 
